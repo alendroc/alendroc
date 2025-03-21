@@ -9,7 +9,6 @@
 
 ## About Me 👨‍💻:
 
-- 🏢 I currently work as a **developer** at ExportPack
 - 🏢 Mainly focused on Front-end UX and UI
 - 🎓 Systems Engineering Studies at [the National University of Costa Rica](https://www.una.ac.cr/))
 - 🏡Lives in **Guanacaste Costa Rica**
