@@ -19,7 +19,7 @@
 ## Skills 📈:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cs,cpp,css,bootstrap,discord,postgres,figma,github,html,java,jquery,js,materialui,angular,react,jest,vite,mysql,nodejs,postman,sqlserver,laravel,tailwind,ts,dotnet,visualstudio,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,cs,cpp,css,bootstrap,discord,postgres,figma,github,html,java,jquery,js,materialui,angular,react,jest,vite,mysql,nodejs,azure,firebase,postman,laravel,tailwind,ts,dotnet,visualstudio,vscode&perline=14" />
   </a>
 </p>
 
