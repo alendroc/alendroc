@@ -3,7 +3,7 @@
 <div  align="center" margin-bottom="35"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=45&pause=1000&color=000000&center=true&vCenter=true&width=466&lines=Always+learning;Focused+on+UX+and+UI" alt="Typing SVG" /></a></div>
 <br>
 
-![GitHub followers](https://img.shields.io/github/followers/alendroc?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/alendroc?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=alendroc.repoName) <img src="https://komarev.com/ghpvc/?username=alendroc" alt="alendroc" />
+![GitHub followers](https://img.shields.io/github/followers/alendroc?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/alendroc?style=social) <img src="https://komarev.com/ghpvc/?username=alendroc" alt="alendroc" />
 
 
 
